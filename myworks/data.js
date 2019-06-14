@@ -1,0 +1,1 @@
+var myData={designer:{name:'吴沙',phone:'17603037574',tag:["#你这么美"],bg:'#1e2025'},gallery:[{src:"myworks/女装banner图7.jpg",w:1920,h:600},{src:"myworks/女装banner图9.jpg",w:1920,h:600},{src:"myworks/banner图1.jpg",w:1920,h:600},{src:"myworks/女装banner图4.jpg",w:1920,h:600},]}
